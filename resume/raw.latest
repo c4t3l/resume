@@ -1,0 +1,201 @@
+Robert M. Callicotte
+9907 Tallow Tree Cir.
+Houston, TX 77070
+832.265.5564
+email: rcallicotte@gmail.com
+
+
+PROFESSIONAL EXPERIENCE:
+
+
+National Oilwell Varco									Linux Server Specialist
+HOUSTON, TX											08/14 – Present
+
+As part of Corporate Engineering Technology Group:
+•	Installed and configured license scheduler for Platform LSF HPC
+•	Install/deploy/configure various Oracle SOA Weblogic systems
+•	Install/deploy/configure various Tomcat web application servers
+•	Wrote/tested numerous puppet modules and manifests for automated configuration management.
+•	Developed custom solutions per application owner request
+•	Installed/Deployed Salt Stack for configuration management
+•	Installed/Deployed Zenoss Monitoring System
+
+As part of Corporate IT Server Infrastructure:
+•	Wrote policies for user access and control for global UXLX infrastructure
+•	Developed pipeline container processes for package management (RPMs) and testing
+•	Designed, built, and deployed global configuration management / remote execution system using Salt Stack, Atlassian Suite, and Etcd
+•	Developed custom execution modules for automated configuration management
+•	Deployed real-time monitoring system vector 
+•	Developed orchestration for automated disaster recovery tests
+•	Deployed Cobbler systems for geographically isolated package repositories  
+•	Developed custom middleware application that translates between CMDB system and Etcd
+•	Built and deployed Docker Swarm cluster for POC
+•	Wrote numerous custom nagios check modules
+
+
+JP Morgan Chase	 					Incident Management – Production Assurance 
+HOUSTON, TX											09/12 – 06/14
+
+As a part of JP Morgan Chase Card (CCB) organization and the ECCS / Consumer Command Center, I am responsible for: 
+•	Monitoring (ECCS technologies, Card and Consumer Banking applications), 
+•	Incident Management, Service Improvement, and stability efforts across the Card and Consumer and Community Bank lines of business.  
+•	Provide LOB level expertise and support during critical incidents, interfacing with all impacted LOBs and technology teams.  
+•	Call facilitation, coordination and communications during critical outage situations.
+•	Event and response documentation, queue management, ticket analysis.
+•	Liaison to GTI for overall governance decisions and core tool enhancements in the Command Center framework.
+
+Sungard Availability Services 								Senior Systems Engineer	
+HOUSTON, TX											03/10 – 5/12
+
+•	Part of a team responsible for thousands of Unix/Linux systems.
+•	Manage/Troubleshoot complex system environments (AIX/Solaris/HP-UX/Red Hat Enterprise Linux/Oracle Linux/ESX).
+•	Configure and maintain HA clusters (VCS/Solaris).
+•	Configuration of Solaris LDOMs and Zones.
+•	Configuration of Solaris BSM security auditing.
+•	Manage patching for multiple customers.
+•	Managed massive SAN migration.
+•	Revise disaster recovery plans for enterprise customers.
+•	Participate in disaster recovery tests for enterprise customers.
+•	Participate in PCI audits for enterprise customers.
+•	Write change plans for change management teams.
+•	Root cause analysis of severity one incidents.
+•	Conform to ITIL standards for change management and incident response.
+
+Questia Media / Cengage Learning							Senior Systems Admin
+HOUSTON, TX											12/08 – 03/10
+
+•	Responsible for support of hundreds of Linux and Solaris systems.
+•	Installation and configuration of Linux and Sun Microsystems hardware.
+•	Installation and configuration of Oracle 10g RAC
+•	Configure and maintain HA clusters (VCS/Solaris).
+•	Responsible for migration of production web application from Weblogic to Apache/Tomcat. 
+•	Migrated backup systems from Veritas Netbackup to Arkeia NB.
+•	Responsible for management of Pillar-Axiom SAN. 
+•	Managed corporate Lotus Notes/Domino email system.
+•	Configured Solaris zones for app testing.
+•	Configured Xen Hypervisor for app testing.
+•	Configured remote system logging with Splunk and rsyslogd
+•	Linux Kernel crash dump analysis
+•	Root cause analysis of high priority incidents
+•	First Responder for 24/7/365 on-call duties.
+
+BizBx LLC. / Votek Communications							Linux Support Manager
+HOUSTON,TX											01/07 – 12/08
+				
+•	Supervise Votek/Bizbx Systems merger.
+•	Maintain and administer in-house Red Hat Linux boxes and 150 customer owned systems.
+•	Install Red Hat Enterprise Linux OS using Kickstart.
+•	Troubleshoot VOIP networks with vendor 
+•	Maintain corporate servers (DNS, SMTP, FTP, Asterisk, etc.).
+•	General customer support.
+										
+											Lead Systems Administrator					
+•	Manage over 150 Linux based PBX systems.
+•	Troubleshoot VOIP networks.
+•	Architect customer solutions based on their PBX requirements.
+•	Maintain corporate servers (DNS, SMTP, Backups, etc.).
+•	General customer support.
+
+TELECHOICE SOLUTIONS								Systems Administrator
+HOUSTON, TX											07/06 – 01/07
+				
+•	Architect customer solutions based upon their PBX requirements.;
+•	Manage various Red Hat Enterprise Linux / Gentoo Linux servers.
+•	Troubleshoot VOIP network problems.
+•	Day to day system administration tasks.
+•	Ensure system security.
+•	General network troubleshooting.
+•	Install network equipment.
+•	General customer support.
+
+CYPRESS TELECOMMUNICATIONS							Systems Administrator
+HOUSTON, TX											03/06 – 07/06				
+•	Manage Solaris Unix and Red Hat Enterprise Linux servers.
+•	Architect customer solutions based on their PBX requirements.
+•	Troubleshoot VOIP network problems.
+•	Day to day system administration tasks.
+•	Ensure system security utilizing OSSEC.
+•	General Cisco network troubleshooting.
+•	Administer Coppercom (Solaris 9 platform) PSTN switch.
+•	Install network equipment at customer locations.
+
+EQUIPMENT SOLUTIONS								Website Administrator		
+HOUSTON, TX											10/03 – 02/06		
+
+•	Design and maintain all aspects of the company’s website.
+•	Update the website periodically to ensure consistency with on-hand inventory.
+•	Installation and configuration of Apache web servers.
+
+
+
+
+TAINTMEDIA HOSTING SERVICES								Owner/Operator
+HOUSTON, TX											09/03 – 09/13
+				
+•	Set up and maintain AWS services including EC2, S3, Route 53, CloudFormation, CloudFront;
+•	Administration of  Wowza media Server streaming services with CloudFormation and CloudFront;
+•	Administration and configuration of Xen based paravirualized Vms;
+•	Administer and maintain Red Hat Linux based operating systems running Apache web server;
+•	Set up Linux hosts in Rackspace Hosting
+•	Maintain backup data for customers; and
+•	Provide customer support.
+
+HARRIS COUNTY CLERK’S OFFICE							Mainframe Admin/Operator	
+HOUSTON, TX											05/01 – 03/06
+				
+•	Operate and maintain a Unisys 2200 mainframe computer system;
+•	Operate and maintain Unisys SysV Unix computer systems;
+•	Support Linux desktops: add users and configure mail clients
+•	Set up Apache virtual hosts for internal wikis
+•	Process and debug database files to ensure optimal function;
+•	Tabulate Mobile Ballot Box files for election results;
+•	Update Harris County voter registration records;
+•	Prepare yearly, monthly, and weekly sales data; and
+•	Correspond with the Harris County Information Technology Center.
+
+SKILL SUMMARY:
+•	Proficient with configuration management systems including Puppet and Salt Stack
+•	Experience in capacity planning and deployment in a mixed *nix Windows environment.
+•	Proficient in Linux/Unix system administration, including all variants of Redhat Linux (7.3 – RHEL 7), Debian 3.5 and later, Gentoo Linux, Arch Linux, CoreOS, and FreeBSD6 - 11
+•	Solaris 2.6, 2.7, 2.8 and 10 configuration and administration including zones, LDOMs and ZFS.
+•	Veritas Volume Manager, Veritas Cluster Services, Veritas Dynamic Mulitpathing, EMC Powerpath.
+•	Linux kernel configuration and patching, Bash shell scripting, PHP, Python, HTML, CSS, JSON, Javascript, jQuery
+•	Apache web server, Samba, NFS, NFSv4, FTP, Asterisk PBX. 
+•	Netfilter (iptables),  Secure Shell (open SSH/Tetcia), Rsync, Subversion.
+•	Xen Hypervisor, Linux KVM, VMware ESX, Nagios and Zenoss installation/customization.
+•	Amazon Web Services (AWS) including EC2, S3, Route 53, CloudFront CDN, CloudFormation 
+•	HP Opsware, Sysedge, SiteScope, IBM Tivoli
+•	Microsoft Windows administration, including server 2003 and 2008 with DFS and Active Directory.
+•	Working knowledge in  MySQL, VB.net, C, Cisco IOS 12.4, TCP/IP, UDP, T1(telco interconnect), Red Hat Directory Server, LDAP. 
+•	Cisco CSS Load balancers.
+•	Former open-source plug-in developer for Nagios (check_asterisk_alive).
+
+CERTIFICATIONS:	
+
+	RedHat Certification of Expertise in Performance Tuning (RHEL 7) 
+		March 2017 – March 2020
+		License Number: 110-510-047
+
+	RedHat Certified Engineer (RHEL 6) 
+		March 2014 – March 2020 
+		License Number: 110-510-047
+
+	RedHat Certified Systems Administrator (RHEL 6) 
+		March 2014 – March 2020
+		License Number: 110-510-047
+
+	RedHat Certified Technician (RHEL 4) 
+		January 2006 – 2009
+		License Number: 604006826396579
+
+UNIVERSITY OF HOUSTON-DOWNTOWN								HOUSTON, TX
+
+	Pursued a Bachelor of Science Degree 
+	Major:  Computer Information Systems
+	GPA:  3.14
+	DNF
+
+PROFESSIONAL ORGANIZATIONS:
+	Association of Computing Machinery – Professional Member
+	USENIX – Professional Member
+
