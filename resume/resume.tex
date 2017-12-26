@@ -3,15 +3,57 @@
 
 \documentclass{article}
 
-\title{R\'esum\'e}
-\author{Robert Callicotte}
+  \usepackage{titlesec}
+  \usepackage{titling}
+  \usepackage[margin=1in]{geometry}
+
+  \titleformat{\section}
+    {\huge\bfseries\lowercase}
+    {}
+    {0em}
+    {}[\titlerule]
+
+  \titleformat{\subsection}
+    {\bfseries\Large}
+    {}
+    {0em}
+    {}
+
+  \titleformat{\subsubsection}
+    {\bfseries}
+    {}
+    {0em}
+    {}
+
+  \titlespacing{\subsection}
+    {0em}
+    {0em}
+    {0em}
+
+  \renewcommand{\maketitle}{
+    \begin{center}
+    {\huge\bfseries
+    \theauthor}
+
+    \vspace{.25em}
+
+    rcallicotte@gmail.com $\bullet$ 832.265.5564
+
+    \end{center}
+  }
+
+
+
+  \title{R\'esum\'e}
+  \author{Robert Callicotte}
 
 \begin{document}
 \maketitle
 
 \section{Professional Experience}
-  \subsection{National Oilwell Varco \hfill Linux Server Specialist}
-  Houston, Tx \hfill 08/14 - Present\\
+  \subsection{National Oilwell Varco \hfill Linux Server Specialist\\
+    Houston, Tx \hfill 08/14 - Present
+    }
   
   As part of the Corporate Engineering Technology Group:\\
   \begin{itemize}
@@ -38,8 +80,10 @@
   \item Wrote numerous custom nagios check modules
   \end{itemize}
 
-  \subsection{JP Morgan Chase \hfill Incident Management/Production Assurance}
-  Houston, Tx \hfill 09/12 - 06/14\\
+  \subsection{JP Morgan Chase \hfill Incident Manager\\
+    Houston, Tx \hfill 09/12 - 06/14
+  }
+
   As part of JP Morgan Chase Card organization (CCB) and the ECCS/Conumer Command Center, I was reqponsible for:\\
   \begin{itemize}
   \item Monitoring (ECCS technologies, Card and Consumer Banking applications)
@@ -51,8 +95,10 @@
   \end{itemize}
 
 
-  \subsection{Sungard Availability Services \hfill Senior Systems Engineer}
-  Houston, Tx \hfill 03/10 - 05/12\\
+  \subsection{Sungard Availability Services \hfill Senior Systems Engineer\\
+    Houston, Tx \hfill 03/10 - 05/12
+  }
+
   As a member of the Enterprise Service Organization (ESO), I was responsible for:\\
   \begin{itemize}
   \item Maintanance and uptime for thousands of Unix/Linux systems
@@ -71,8 +117,10 @@
   \end{itemize}
 
 
-  \subsection{Questia Media/Cengage Learning \hfill Senior Systems Admin}
-  Houston, Tx \hfill 12/08 - 03/10\\
+  \subsection{Questia Media/Cengage Learning \hfill Senior Systems Admin\\
+    Houston, Tx \hfill 12/08 - 03/10
+  }
+
   As a member of the techops group, I was reponsible for:\\
   \begin{itemize}
   \item Maintenance and uptime of hundreds of Linux and Solaris systems
@@ -91,8 +139,10 @@
   \item First Responder for 24/7/365 on-call duties
   \end{itemize}
 
-  \subsection{BizBx LLC/Votek Comunications \hfill Linux Support Manager}
-  Houston, Tx \hfill 01/07 - 12/08\\
+  \subsection{BizBx LLC/Votek Comunications \hfill Linux Support Manager\\
+    Houston, Tx \hfill 01/07 - 12/08\\
+  }
+
   As the Linux Support Manager:\\
   \begin{itemize}
   \item Supervise Votek/Bizbx Systems merger
@@ -112,8 +162,10 @@
   \item General customer support
   \end{itemize}
 
-  \subsection{Telechoice Solutions \hfill Systems Administrator}
-  Houston, Tx \hfill 07/06 - 01/07\\
+  \subsection{Telechoice Solutions \hfill Systems Administrator\\
+    Houston, Tx \hfill 07/06 - 01/07
+  }
+
   I was responsible for:\\
   \begin{itemize}
   \item Architect customer solutions based upon their PBX requirements
@@ -126,8 +178,10 @@
   \item General customer support
   \end{itemize}
 
-  \subsection{Cypress Telecomunications \hfill Systems Administrator}
-  Houston, Tx \hfill 03/06 - 07/06\\
+  \subsection{Cypress Telecomunications \hfill Systems Administrator\\
+    Houston, Tx \hfill 03/06 - 07/06\\
+  }
+
   I was responsible for:\\
   \begin{itemize}
   \item Managing Solaris Unix and Red Hat Enterprise Linux servers
@@ -140,8 +194,10 @@
   \item Install network equipment at customer locations
   \end{itemize}
   
-  \subsection{Equipment Solutions \hfill Website Administrator}
-  Houston, Tx \hfill 10/06 - 02/06\\
+  \subsection{Equipment Solutions \hfill Website Administrator\\
+    Houston, Tx \hfill 10/06 - 02/06\\
+  }
+
   As the Website Administrator I was responsible for:\\
   \begin{itemize}
   \item Design and maintainance for all aspects of the company’s website
@@ -149,8 +205,10 @@
   \item Installation and configuration of Apache web servers
   \end{itemize}
   
-  \subsection{Taintmedia Hosting Services \hfill Owner Operator}
-  Houston, Tx \hfill 09/03 - 09/13\\
+  \subsection{Taintmedia Hosting Services \hfill Owner Operator\\
+    Houston, Tx \hfill 09/03 - 09/13\\
+  }
+
   I was responsible for:\\
   \begin{itemize}
   \item Setup and maintainance of AWS services including EC2, S3, Route 53, CloudFormation, CloudFront
@@ -162,8 +220,10 @@
   \item Providing customer support
   \end{itemize}
 
-  \subsection{Office of the Harris County Clerk \hfill Mainframe Admin/Operator}
-  Houston, Tx \hfill 05/01 - 03/06\\
+  \subsection{Office of the Harris County Clerk \hfill Mainframe Admin/Operator\\
+    Houston, Tx \hfill 05/01 - 03/06\\
+  }
+
   As a member of the Information Systems Group:\\
   \begin{itemize}
   \item Operate and maintain a Unisys 2200 mainframe computer system
@@ -180,7 +240,7 @@
 \section{Skill Summary}
   \subsection{Languages}
     \subsubsection{Proficient}
-    Python, Bash, PHP, Javascript, Jquery
+    Python, Bash, PHP, Javascript, Jquery, SQL, HTML
     \subsubsection{Working Knowledge}
     R, {\LaTeX}, Golang, C, Java
 
@@ -208,8 +268,9 @@
     
   
 \section{Education}
-  \subsection{University of Houston-Downtown}
-    Houston, Tx \hfill 1997 - 2004\\
+  \subsection{University of Houston-Downtown\\
+    Houston, Tx \hfill 1997 - 2004
+  }
     Pursued a bachelor of science degree\\
     Major: Computer Information Systems\\
     GPA: 3.14\\
